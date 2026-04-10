@@ -1,98 +1,56 @@
-# 👋 Hi, I'm Hasan
+# Hasan | Computer Science Student & Developer  
 
-🎓 3rd Year B.E. Computer Science Student
-
----
-
-## 🚀 About Me
-
-I’m a passionate Computer Science student focused on building real-world solutions through technology.  
-I enjoy solving practical problems, developing scalable applications, and continuously improving my technical skills.
-
-I believe in learning by **building impactful projects**, not just studying theory.
+🎓 **B.E. Computer Science (3rd Year)**  
+💻 Building **real-world, problem-driven applications** with IoT, Web, and AI technologies  
+🌐 Interested in **Cybersecurity & Intelligent Systems**  
 
 ---
 
-## 💻 Tech Interests
-
-- 🔐 Cybersecurity  
-- 🤖 Artificial Intelligence  
-- 🌐 Web & App Development  
-- 🧩 Problem Solving  
+## 💡 About Me
+I am passionate about designing and developing scalable, impactful solutions that bridge hardware and software. My focus lies in **IoT-based systems, full-stack web applications, and intelligent automation**. I thrive on solving real-world problems through innovation, efficiency, and collaboration.  
 
 ---
 
-## 📚 Currently Learning
-
-- ☕ Java with Data Structures & Algorithms  
-- 🌐 Java Full Stack Development  
-
----
-
-## 🛠️ Projects
-
-### 🔥 Smart LPG Gas Leak Detection System with IoT Integration
-- 🚨 Detects gas leaks using MQ6 sensor  
-- 🌐 Real-time monitoring via web application  
-- ⚙️ Automated gas valve shut-off using motor  
-- 📡 IoT-based alert system  
-- 🏆 Won **1st Prize twice** (Engineer’s Day & Science Day)  
-- ✅ Approved under **KSCST 48th Series**
+## 🔧 Technical Skills
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js, Socket.io  
+- **Programming:** Java (Data Structures & Algorithms), Java Full Stack Development  
+- **IoT & Hardware:** ESP8266, MQ6 Sensor, RSSI-based proximity systems  
+- **Other Interests:** Cybersecurity, Artificial Intelligence  
 
 ---
 
-### ⚡ Smart Electricity Monitoring System *(Concept / Extended Idea)*
-- 📊 Tracks electricity usage in real time  
-- ⚠️ Detects abnormal consumption patterns  
-- 🌐 Web-based dashboard for monitoring  
-- 💡 Aims to improve energy efficiency and reduce wastage  
+## 🚀 Projects
+- **Smart LPG Gas Leak Detection System**  
+  IoT + Web integration using MQ6 sensor & ESP8266 for real-time monitoring, alerts, and automated control.  
+
+- **Auto Attendance System**  
+  RSSI-based proximity logic for scalable presence detection in large environments.  
+
+- **Smart Indoor Navigation System (In Progress)**  
+  Indoor location tracking solution for campuses, malls, and hospitals.  
 
 ---
 
-### 📍 Smart Indoor Navigation System *(Final Year Project - Planned)*
-- 🗺️ Helps users locate items/places inside buildings  
-- 📌 Works for malls, libraries, hospitals, and campuses  
-- 📱 Provides path guidance (like Google Maps for indoors)  
-- 🛠️ Includes admin panel for mapping and tagging locations  
+## 🌱 Current Focus
+- Strengthening **Java + DSA** for problem-solving  
+- Expanding into **Java Full Stack Development**  
+- Exploring **Cybersecurity & AI** for secure, intelligent applications  
 
 ---
 
-### 📡 Auto Attendance System (Multi-Layer Presence Verification)
-- 📶 Uses signal-based proximity (RSSI) detection  
-- 🔁 Multi-layer attendance marking (close → mid → far range)  
-- ⚡ Optimized to cover large classrooms efficiently  
-- 📤 Final attendance data sent to lecturer’s device  
-- 🎯 Reduces proxy attendance and improves accuracy  
+## 🤝 Community
+Active contributor in **PsycTech Club (Life Hackers & Innovators Club)**  
+- Promoting practical learning and project-based skill development  
+- Driving innovation through collaboration and impactful solutions  
 
 ---
 
-## 🏫 Leadership & Activities
-
-### 🚀 PsycTech Club (Life Hackers & Innovators Club)
-- Founder / Core Contributor  
-- Focus on:
-  - Innovation  
-  - Skill Development  
-  - Real-world Problem Solving  
-- Organized and contributed to technical events and initiatives  
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/)  
+- [GitHub](https://github.com/Hasan)  
+- [Email](mailto:your-email@example.com)  
 
 ---
 
-## 📈 Goals
-
-- Build impactful real-world applications  
-- Strengthen problem-solving and development skills  
-- Contribute to meaningful tech projects  
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: *(Add your link here)*  
-- 🧑‍💻 GitHub: *(You're already here 😄)*  
-
----
-
-## ⚡ Fun Fact
-
-> I don’t just learn tech — I build solutions that can actually be used in real life.
+⭐️ *Committed to building scalable, secure, and intelligent systems that solve real-world challenges.*
