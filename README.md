@@ -1,99 +1,60 @@
-<h1 align="center">Hi 👋, I'm Hasan Syed</h1>
-<h3 align="center">🚀 3rd Year Computer Science Engineer | IoT Developer | Full Stack Learner</h3>
+# Hi there, I'm Hasan! 👋 
+
+### 🚀 Aspiring Software Engineer & IoT Enthusiast
+I am a 3rd-year B.E. Computer Science student dedicated to building **problem-driven applications** that bridge the gap between hardware and scalable software. I specialize in developing IoT-integrated web platforms and real-time event-driven systems.
 
 ---
 
-## 🧠 About Me
+### 🛠️ Tech Stack & Tools
 
-I am a 3rd-year B.E. Computer Science student focused on building **real-world, problem-driven applications** using modern technologies.
+**Languages & Core CS**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-FFD700?style=for-the-badge&logo=google-cloud&logoColor=black)
 
-I specialize in developing **IoT-integrated systems with full-stack web applications**, combining hardware intelligence with scalable software solutions.
+**Web Development (Full Stack)**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 Currently working on **Smart Indoor Navigation System**
-- 🌱 Learning **Data Structures & Algorithms (Java)** & **Full Stack Development**
-- 👨‍💻 Passionate about **IoT, AI, and Cybersecurity**
-- ⚡ Focused on building **impactful and scalable solutions**
-
----
-
-## 🚀 Projects
-
-### 🔥 Smart LPG Gas Leak Detection System
-- IoT-based system using **MQ6 Sensor + ESP8266**
-- Real-time monitoring with **Web Dashboard**
-- Automated **Gas Valve Control System**
-- Built using **Node.js, Express, Socket.io**
+**IoT & Hardware**
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Sensors](https://img.shields.io/badge/Sensors-MQ6_/_RSSI-blue?style=for-the-badge)
 
 ---
 
-### 📍 Smart Indoor Navigation System *(In Progress)*
-- Indoor positioning system for **malls, campuses, hospitals**
-- Real-time navigation with smart mapping
-- Scalable multi-location architecture
+### 📂 Featured Projects
+
+#### 🛡️ [Smart LPG Gas Leak Detection System](https://github.com/your-link)
+* **Problem:** Enhancing domestic and industrial safety through automated detection.
+* **Stack:** ESP8266, MQ6 Sensor, Node.js, Socket.io.
+* **Impact:** Real-time monitoring with instant web-based alerts and automated shut-off logic.
+
+#### 📍 [Auto Attendance System (RSSI-based)](https://github.com/your-link)
+* **Problem:** Modernizing attendance in large environments using proximity.
+* **Key Logic:** Utilizes RSSI-based proximity tracking to optimize presence detection and minimize manual error.
+
+#### 🗺️ [Smart Indoor Navigation (In-Progress)](https://github.com/your-link)
+* **Focus:** Solving location tracking challenges in complex indoor spaces like malls and hospitals.
 
 ---
 
-### 🧠 Auto Attendance System *(Concept & Design)*
-- Uses **RSSI-based proximity logic**
-- Designed for **large-scale environments**
-- Focus on **accuracy & efficiency optimization**
+### 🌟 Leadership & Community
+* **PsycTech Club (Life Hackers & Innovators):** Actively fostering a culture of practical learning and project-based skill development among peers.
+
+### 📈 Currently Learning
+* Advanced **Java Full Stack Development** for scalable enterprise apps.
+* Integrating **Cybersecurity** best practices into the development lifecycle.
+* Exploring the intersection of **AI and IoT**.
 
 ---
 
-## 💻 Tech Stack
-
-### 🖥️ Frontend
-- HTML5, CSS3, JavaScript
-
-### ⚙️ Backend
-- Node.js, Express.js
-- Real-time systems with Socket.io
-
-### 🔌 IoT & Hardware
-- ESP8266 (NodeMCU)
-- MQ6 Gas Sensor
-
-### 📚 Currently Exploring
-- Java (DSA)
-- Full Stack Development
-- Artificial Intelligence
-- Cybersecurity
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-</p>
-
----
-
-## 🏆 Achievements & Activities
-
-- 🥇 1st Prize – Engineer’s Day Project Competition
-- 🥇 1st Prize – Science Day Project Exhibition
-- 💡 Active member of **PsycTech Club (Life Hackers & Innovators Club)**
-- 🚀 Focused on **innovation, collaboration & real-world problem solving**
-
----
-
-## ⚡ Fun Fact
-
-💡 I turn real-world problems into working tech solutions 🚀
-
----
+*"Building impactful solutions, one line of code at a time."*
