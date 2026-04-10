@@ -2,7 +2,7 @@
 
 <!-- Dynamic Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;B.E.+Computer+Science+%7C+3rd+Year;IoT+%7C+Full+Stack+%7C+AI+%7C+Security;Building+Solutions+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Syed+Mohammed+Hasan!+;B.E.+Computer+Science+%7C+3rd+Year;IoT+%7C+Full+Stack+%7C+AI+%7C+Security;Building+Solutions+That+Matter!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name        : "[Your Full Name]"
+name        : "Syed Mohammed Hasan"
 location    : "India 🇮🇳"
 education   : "B.E. Computer Science — 3rd Year"
 focus_areas :
@@ -29,8 +29,8 @@ currently   :
   - "📡 Designing a Smart Indoor Navigation System"
   - "☕ Deepening Java DSA & Full Stack skills"
   - "🔐 Exploring Cybersecurity & AI-powered systems"
-community   : "Co-founder @ PsycTech Club — Life Hackers & Innovators"
-philosophy  : "Build for impact. Engineer for scale. Ship with purpose."
+community   : "Founder & Chairmen - PsycTech Club, LAEC, Bidar"
+philosophy  : "Level-Up Like Never Before."
 ```
 
 ---
@@ -51,10 +51,6 @@ philosophy  : "Build for impact. Engineer for scale. Ship with purpose."
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**IoT & Hardware**
-
-![ESP8266](https://img.shields.io/badge/ESP8266-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 **Tools & Platforms**
 
@@ -66,8 +62,6 @@ philosophy  : "Build for impact. Engineer for scale. Ship with purpose."
 
 ![Java](https://img.shields.io/badge/Java%20Full%20Stack-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA%20with%20Java-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-4B0082?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
