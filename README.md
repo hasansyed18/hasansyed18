@@ -44,7 +44,7 @@ Real-time gas leak detection built on an ESP8266 NodeMCU and MQ6 sensor, with pu
 `NodeMCU / ESP8266` `MQ6 Sensor` `Firebase` `HTML/CSS/JS`
 → KSCST State-Level Selection · multiple project exhibition awards
 
-*(Repo links above point to my GitHub profile — swap in the direct repo URLs once each is public.)*
+
 
 ---
 
@@ -62,10 +62,9 @@ Real-time gas leak detection built on an ESP8266 NodeMCU and MQ6 sensor, with pu
 
 ### Recognition
 
-1st Prize — Code Marathon (LAEC) · Engineers' Day Project Exhibition · National Science Day Project Exhibition · IETE South Zone Seminar & ISF Congress 2026
-2nd Prize — Technovision 2026 (GNDEC) · National Science Day Poster Presentation
-Runner-up — Janotsava Techno-Cultural Fest Project Exhibition
-Selected — KSCST Innovation Project, Online Presentation Round
+1st Prize —  IETE South Zone Seminar & ISF Congress 2026 @Sharnbasva University, Kalburgi | Code Marathon, YUKTI @LAEC | Engineers' Day Project Exhibition @LAEC | National Science Day Project Exhibition @LAEC.
+2nd Prize — Technovision 2026 @GNDEC | National Science Day Poster Presentation @LAEC | Runner-up-1 @Janotsava Techno-Cultural Fest Project Exhibition.
+Selected — KSCST (Karnataka State Council for Science and Technology) project reference number: 48S_BE_0549.
 
 ---
 
