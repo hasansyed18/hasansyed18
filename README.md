@@ -14,7 +14,7 @@ Computer Science Engineer · Building offline-first, sensor-driven, and full-sta
 
 I design systems around the constraint that makes them hard: no GPS indoors, no reliable single signal for attendance, no early warning for a gas leak. Recent work spans BLE/RSSI-based presence verification, a grid-to-graph indoor navigation engine, and an IoT gas-detection system that shipped to a state-level review.
 
-Currently a B.E. Computer Science student at Lingaraj Appa Engineering College (VTU), graduating June 2027.
+Currently a B.E. Computer Science student at Lingaraj Appa Engineering College(LAEC) Affilated to Visvesvaraya Technological University, graduating June 2027.
 
 ---
 
@@ -53,9 +53,9 @@ Real-time gas leak detection built on an ESP8266 NodeMCU and MQ6 sensor, with pu
 | | |
 |---|---|
 | **Languages** | Java, JavaScript, HTML, CSS |
-| **Core CS** | Data Structures & Algorithms *(in progress)*, OOP, Problem Solving |
-| **Web** | React, Vite, Tailwind CSS, Firebase, Node.js *(basic)* |
-| **Mobile & IoT** | Android, React Native *(learning)*, ESP8266, BLE, Geofencing, RSSI |
+| **Core CS** | Data Structures & Algorithms, OOP, Problem Solving |
+| **Web** | React, Vite, Tailwind CSS, Firebase, Node.js |
+| **Mobile & IoT** | Android, React Native, ESP8266, BLE, Geofencing, RSSI |
 | **Tools** | Git, GitHub, VS Code, Android Studio |
 
 ---
